@@ -102,7 +102,7 @@ let main = document.getElementById("main-con");
         if (rest != 0){
         arr.length = 0;
         page = 0;
-        main.innerHTML = " Bananna<br> Apple<br> Orange<br>4. Pear<br>5. Pineapple";
+        main.innerHTML = " Bananna<br> Apple<br>Orange<br>Pear<br>Pineapple";
         buttons.innerHTML = "<button onclick='next()' class='main-but'>Start Now</button>"
         }
 
